@@ -1,0 +1,950 @@
+@media (min-width:320px) and (max-width:575px) {
+
+    /* =======================================
+    ----------- navbar part start ----------------
+    =========================================*/
+    .navbar-brand {
+        position: relative;
+    }
+
+    .menu_fix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #000;
+        /* padding-bottom: 18px; */
+    }
+
+    .navbar {
+        background: #150035;
+
+    }
+
+    .navbar button {
+        margin-top: 65px;
+    }
+
+    .navbar button i {
+        color: #ff39dc;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .navbar ul {
+        text-align: center;
+        margin-top: 0px !important;
+
+    }
+
+    .main_menu {
+        background: #6100d1;
+    }
+
+    nav ul li {
+        margin-top: 5px !important;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+    }
+
+    .navbar a.menu_button {
+        font-size: 16px;
+        display: inline-block;
+        margin: 0px 10px 40px 0px;
+    }
+
+    nav {
+        text-align: center;
+    }
+
+    nav .signup a {
+        margin-top: 10px !important;
+        margin-left: 20px;
+    }
+
+    nav .login a {
+        margin-top: 30px !important;
+
+    }
+
+    /* =======================================
+    ----------- navbar part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- banner  part start -----------
+    =========================================*/
+    #banner-part {
+        padding-bottom: 200px;
+    }
+
+    #banner-part .b-text p {
+      text-align: center;
+      margin-bottom:-32px;
+    }
+
+    #banner-part .b-text h1 {
+        font-size: 181px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    #banner-part .images {
+        width: auto;
+    }
+
+    #banner-part .b-text {
+        width: auto;
+    }
+
+    /* =======================================
+    ----------- banner part end ----------------
+    =========================================*/
+
+    /* =======================================
+    ----------- banner-bottom part start -----
+    =========================================*/
+    #banner-bottom {
+        bottom: -140%;
+    }
+
+    /* =======================================
+    ----------- banner part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- games part start ----------------
+    =========================================*/
+    #games-part {
+        padding-bottom: 50px;
+    }
+
+    #games-part .images {
+        margin-bottom: 30px;
+        width: auto;
+    }
+
+    #games-part .images .overlay h3 {
+        margin-top: 100px;
+    }
+
+    /* =======================================
+    ----------- games part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- sping part start -------------
+    =========================================*/
+    #spin-part .images img {
+        width: 100%;
+    }
+
+    #spin-part .details p {
+        width: auto;
+    }
+
+    /* =======================================
+    ----------- sping part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- pricing part start ------------
+    =========================================*/
+    #pricing-part {
+        padding-bottom: 0;
+    }
+
+    #pricing-part .item {
+        margin-bottom: 100px;
+    }
+
+    #pricing-part .item ul li {
+        padding: 10px 0;
+    }
+
+    /* =======================================
+    ----------- praicing part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- faq part end ----------------
+    =========================================*/
+    #faq_part .accordion_heading h3 {
+        font-size: 30px;
+    }
+
+    #faq_part .tournament_heading h3 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    #faq_part .remain_heading h4 {
+        padding-left: 85px;
+    }
+
+    #faq_part .remain_heading ul li:last-child {
+        margin-right: 30px;
+    }
+
+    #faq_part .remain_heading span {
+        display: none;
+    }
+
+    #faq_part .remain_heading ul {
+        text-align: center !important;
+    }
+
+    #faq_part .tournament_heading h3 {
+        margin-top: 50px;
+
+    }
+
+    /* =======================================
+    ----------- faq part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- Offer part start ----------------
+    =========================================*/
+    #offer_part .subscribe h3 {
+        font-size: 30px;
+    }
+
+    #offer_part .input_box input {
+        width: 275px;
+    }
+
+    #offer_part .input_box button {
+        width: 30px;
+    }
+
+    #offer_part .payment h3 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+
+    /* =======================================
+    ----------- Offer part end ----------------
+    =========================================*/
+}
+
+@media (min-width:576px) and (max-width:767px) {
+
+    /* =======================================
+    ----------- navbar part start ----------------
+    =========================================*/
+    .navbar-brand {
+        margin-left: 20px;
+
+    }
+
+    .menu_fix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #000;
+        padding-bottom: 18px;
+    }
+
+    .navbar {
+        background: #150035;
+        padding-bottom: 40px;
+
+    }
+
+    .navbar button {
+        margin-top: 60px;
+    }
+
+    .navbar button i {
+        color: #ff39dc;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .navbar ul {
+        text-align: center;
+        margin-top: 0px !important;
+
+    }
+
+    .main_menu {
+        background: #6100d1;
+    }
+
+    nav ul li {
+        margin-top: 10px !important;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+    }
+
+    .navbar a.menu_button {
+        font-size: 16px;
+        display: inline-block;
+        margin: 0px 10px 40px 0px;
+    }
+
+    nav {
+        text-align: center;
+    }
+
+    nav .signup a {
+        margin-top: 20px !important;
+        margin-left: 20px;
+    }
+
+    nav .login a {
+        margin-top: 30px !important;
+
+    }
+
+    /* =======================================
+    ----------- navbar part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- banner  part start -----------
+    =========================================*/
+    #banner-part {
+        padding-bottom: 200px;
+    }
+
+    #banner-part .b-text p {
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+
+    #banner-part .b-text h1 {
+        font-size: 291px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    #banner-part .images {
+        width: auto;
+    }
+
+    #banner-part .b-text {
+        width: auto;
+    }
+
+    /* =======================================
+    ----------- banner part end ----------------
+    =========================================*/
+
+    /* =======================================
+    ----------- banner bottom part start -------
+    =========================================*/
+    #banner-bottom{
+        margin-top: -135px;
+    }
+
+    /* =======================================
+    ----------- banner bottom part end --------
+    =========================================*/
+
+
+    /* =======================================
+    ----------- games part start ----------------
+    =========================================*/
+    #games-part {
+        padding-bottom: 50px;
+        margin-top: -130px;
+    }
+
+    #games-part .images {
+        margin-bottom: 30px;
+
+    }
+
+    #games-part .images img {
+        width: 100%;
+    }
+
+    #games-part .images .overlay h3 {
+        margin-top: 220px;
+    }
+
+    /* =======================================
+    ----------- games part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- spin part start -------------
+    =========================================*/
+
+    #spin-part .details p {
+        width: auto;
+    }
+
+    #spin-part .images img {
+        width: 100%;
+    }
+
+    #spin-part .title {
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    #spin-part .details {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    /* =======================================
+    ----------- spin part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- pricing part start ------------
+    =========================================*/
+    #pricing-part {
+        padding-bottom: 0;
+    }
+
+    #pricing-part .item {
+        margin-bottom: 100px;
+    }
+
+    #pricing-part .item ul li {
+        padding: 10px 0;
+    }
+
+    /* =======================================
+    ----------- praicing part end ------------
+    =========================================*/
+    /* =======================================
+    ----------- FAQ part start------------
+    =========================================*/
+    #faq_part .tournament_heading h3{
+        margin-top: 50px;
+    }
+
+
+    /* =======================================
+    ----------- FAQ part end ------------
+    =========================================*/
+    /* =======================================
+    ----------- Offer part start ------------
+    =========================================*/
+    #offer_part .subscribe h3 {
+        font-size: 30px;
+    }
+
+    #offer_part .input_box input {
+        width: 275px;
+    }
+
+    #offer_part .input_box button {
+        width: 30px;
+    }
+
+    #offer_part .payment h3 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+
+    /* =======================================
+    ----------- Offer part end ----------------
+    =========================================*/
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+    /* =======================================
+    ----------- navbar part start ----------------
+    =========================================*/
+    .navbar-brand {
+        margin-left: 20px;
+
+    }
+
+    .menu_fix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #000;
+        padding-bottom: 18px;
+    }
+
+    .navbar {
+        background: #150035;
+        padding-bottom: 40px;
+
+    }
+
+    .navbar button {
+        margin-top: 60px;
+    }
+
+    .navbar button i {
+        color: #ff39dc;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .navbar ul {
+        text-align: center;
+        margin-top: 0px !important;
+
+    }
+
+    .main_menu {
+        background: #6100d1;
+    }
+
+    nav ul li {
+        margin-top: 10px !important;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+    }
+
+    .navbar a.menu_button {
+        font-size: 16px;
+        display: inline-block;
+        margin: 0px 10px 40px 0px;
+    }
+
+    nav {
+        text-align: center;
+    }
+
+    nav .signup a {
+        margin-top: 20px !important;
+        margin-left: 20px;
+    }
+
+    nav .login a {
+        margin-top: 30px !important;
+
+    }
+
+    /* =======================================
+    ----------- navbar part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- banner  part start -----------
+    =========================================*/
+    #banner-part {
+        padding-bottom: 200px;
+    }
+
+    #banner-part .b-text p {
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+
+    #banner-part .b-text h1 {
+        font-size: 201px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    #banner-part .images {
+        width: auto;
+    }
+
+    #banner-part .b-text {
+        width: auto;
+    }
+
+    /* =======================================
+    ----------- banner part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- banner-bottom part start -------
+    =========================================*/
+    #banner-bottom {
+        margin-top: -135px;
+    }
+
+    /* =======================================
+    ----------- banner-bottom part end -------
+    =========================================*/
+
+
+    /* =======================================
+    ----------- games part start ----------------
+    =========================================*/
+    #games-part {
+        margin-top: -130px;
+        padding-bottom: 50px;
+    }
+
+    #games-part .images {
+        margin-bottom: 30px;
+
+    }
+
+    #games-part .images img {
+        width: 100%;
+    }
+
+    #games-part .images .overlay h3 {
+        margin-top: 50px;
+    }
+
+    /* =======================================
+    ----------- games part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- sping part start -------------
+    =========================================*/
+   #spin-part{
+    padding-top: 50px;
+    }
+    #spin-part .details{
+        margin-left: 20px;
+    }
+    #spin-part .details p {
+        margin-bottom: 20px;
+    }
+
+    #spin-part .images img {
+        width: 100%;
+    }
+
+    #spin-part .title {
+        margin-top: 0px;
+
+    }
+
+
+    /* =======================================
+    ----------- sping part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- pricing part start ------------
+    =========================================*/
+    #pricing-part {
+        padding-bottom: 0;
+    }
+
+    #pricing-part .item {
+        margin-bottom: 70px;
+    }
+
+    #pricing-part .item ul li {
+        padding: 10px 0;
+    }
+
+    /* =======================================
+    ----------- praicing part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- Offer part start ----------------
+    =========================================*/
+    #offer_part .subscribe h3 {
+        font-size: 30px;
+    }
+
+    #offer_part .input_box input {
+        width: 275px;
+    }
+
+    #offer_part .input_box button {
+        width: 20px;
+        text-align: center;
+    }
+    #offer_part .input_box button i{
+        color: #3a0090;
+    }
+
+    #offer_part .payment h3 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    #offer_part .payment h3{
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    /* =======================================
+    ----------- Offer part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- footer part start -----------
+    =========================================*/
+    #footer_part .link ul {
+        margin-right: 25px;
+    }
+
+    #footer_part .about ul li {
+        margin-right: 25px;
+        margin-bottom: 20px;
+    }
+
+    /* =======================================
+    ----------- footer part end ----------------
+    =========================================*/
+}
+@media (min-width:992px) and (max-width:1200px) {
+
+    /* =======================================
+    ----------- navbar part start ----------------
+    =========================================*/
+    .navbar-brand {
+        margin-left: 20px;
+
+    }
+
+    .menu_fix {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #000;
+        padding-bottom: 18px;
+    }
+
+    .navbar {
+        background: #150035;
+        padding-bottom: 40px;
+
+    }
+
+    .navbar button {
+        margin-top: 60px;
+    }
+
+    .navbar button i {
+        color: #ff39dc;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .navbar ul {
+        text-align: center;
+        margin-top: 50px !important;
+
+    }
+
+    .main_menu {
+        background: #6100d1;
+    }
+
+    nav ul li {
+        margin-top: 25px !important;
+    }
+
+    nav ul li a {
+        font-size: 16px;
+        margin-right: 35px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    /* .navbar a.menu_button {
+        font-size: 16px;
+        display: inline-block;
+        margin: 0px 10px 40px 0px;
+    } */
+
+    nav {
+        text-align: center;
+    }
+
+    nav .signup a {
+        margin-top: 55px !important;
+        margin-left: 20px;
+    }
+
+    nav .login a {
+        margin-top: 55px !important;
+
+    }
+
+    /* =======================================
+    ----------- navbar part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- banner  part start -----------
+    =========================================*/
+    #banner-part {
+        padding-bottom: 200px;
+    }
+
+    #banner-part .b-text p {
+        margin-top: 40px;
+        margin-left: 8px;
+    }
+
+    #banner-part .b-text h1 {
+        font-size: 281px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    #banner-part .images {
+        width: auto;
+    }
+
+    #banner-part .b-text {
+        width: auto;
+    }
+
+    /* =======================================
+    ----------- banner part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- banner-bottom part start -------
+    =========================================*/
+    #banner-bottom {
+        margin-top: -135px;
+    }
+
+    /* =======================================
+    ----------- banner-bottom part end -------
+    =========================================*/
+
+
+    /* =======================================
+    ----------- games part start ----------------
+    =========================================*/
+    #games-part {
+        margin-top: -130px;
+        padding-bottom: 50px;
+    }
+
+    #games-part .images {
+        margin-bottom: 30px;
+
+    }
+
+    #games-part .images img {
+        width: 100%;
+    }
+
+    #games-part .images .overlay h3 {
+        margin-top: 100px;
+    }
+
+    /* =======================================
+    ----------- games part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- sping part start -------------
+    =========================================*/
+    #spin-part{
+    padding-top: 50px;
+    }
+    #spin-part .details{
+        margin-left: 50px;
+    }
+    #spin-part .details p {
+        margin-bottom: 30px;
+    }
+
+    #spin-part .images img {
+        width: 100%;
+    }
+
+    #spin-part .title {
+        margin-top: 0px;
+
+    }
+
+
+    /* =======================================
+    ----------- sping part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- pricing part start ------------
+    =========================================*/
+    #pricing-part {
+        padding-bottom: 0;
+    }
+
+    #pricing-part .item {
+        margin-bottom: 70px;
+    }
+
+    #pricing-part .item ul li {
+        padding: 10px 0;
+    }
+
+    /* =======================================
+    ----------- praicing part end ------------
+    =========================================*/
+    /* =======================================
+    ----------- FAQ part start------------
+    =========================================*/
+    #faq_part .remain_heading h4{
+        /* margin-top: 30px; */
+     margin-left: 127px;
+     margin-bottom: 20px;
+    
+    }
+    #faq_part .remain_heading span{
+      display: none;
+    
+    }
+   
+    #faq_part .remain_heading ul{
+      
+        margin-bottom: 40px;
+        
+    }
+    #faq_part .tournament_heading h3{
+        margin-bottom: 40px;
+    }
+    #faq_part .remain_heading ul li:last-child {
+        margin-right: 70px;
+    }
+
+    /* =======================================
+    ----------- FAq part end ------------
+    =========================================*/
+
+
+    /* =======================================
+    ----------- Offer part start ----------------
+    =========================================*/
+    #offer_part .subscribe h3 {
+        font-size: 30px;
+    }
+
+    #offer_part .input_box input {
+        width: 400px;
+    }
+
+    #offer_part .input_box button {
+        width: 20px;
+        text-align: center;
+    }
+    #offer_part .input_box button i{
+        color: #3a0090;
+    }
+
+    #offer_part .payment h3 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    #offer_part .payment h3{
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    /* =======================================
+    ----------- Offer part end ----------------
+    =========================================*/
+    /* =======================================
+    ----------- footer part start -----------
+    =========================================*/
+    #footer_part .link ul {
+        margin-right: 25px;
+    }
+
+    #footer_part .about ul li {
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+
+    /* =======================================
+    ----------- footer part end ----------------
+    =========================================*/
+}
