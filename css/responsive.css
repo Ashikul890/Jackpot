@@ -58,6 +58,9 @@
     nav {
         text-align: center;
     }
+    .navbar-toggler:focus{
+        box-shadow:none !important;
+    }
 
     nav .signup a {
         margin-top: 10px !important;
@@ -219,6 +222,9 @@
         font-size: 30px;
         margin-top: 30px;
     }
+    /* #copyright_part{
+        overflow-x:hidden !important;
+    } */
 
     /* =======================================
     ----------- Offer part end ----------------
@@ -286,6 +292,9 @@
 
     nav {
         text-align: center;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none !important;
     }
 
     nav .signup a {
@@ -468,7 +477,7 @@
 
     .navbar {
         background: #150035;
-        padding-bottom: 40px;
+        padding-bottom: 25px;
 
     }
 
@@ -508,6 +517,9 @@
 
     nav {
         text-align: center;
+    }
+    .navbar-toggler:focus{
+        box-shadow:none !important;
     }
 
     nav .signup a {

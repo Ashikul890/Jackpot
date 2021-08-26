@@ -51,6 +51,9 @@ img {
     text-align: center;
     margin-bottom: 60px;
 }
+body{
+    overflow-x: hidden;
+}
 
 /* =========================================== 
 ------------------common css end -----------------
@@ -119,6 +122,7 @@ nav .signup a:hover {
     background: var(--ligcl2);
     box-shadow: 0px 5px rgba(166, 0, 132, .8);
 }
+
 
 nav .login a {
     font-family: var(--title-f);
@@ -961,16 +965,7 @@ nav .login a:hover {
 
 }
 
-/* #copyright_part p::after{
-    position: absolute;
-    content: "";
-    bottom: -30px;
-    left: 0px;
-    width: 100%;
-    height: 2px;
-    background: #000;
-    background: linear-gradient (to bottom, #000 67%, #281357 50%);
-} */
+
 /* ======================================================================
 ---------------------------------copy-right part css end  ------------------
 ========================================================================*/
