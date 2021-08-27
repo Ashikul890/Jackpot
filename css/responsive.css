@@ -7,14 +7,14 @@
         position: relative;
     }
 
-    .menu_fix {
+    /* .menu_fix {
         position: fixed;
         top: 0;
         left: 0;
         width: 100%;
         background: #000;
-        /* padding-bottom: 18px; */
-    }
+        padding-bottom: 18px;
+    } */
 
     .navbar {
         background: #150035;
@@ -80,6 +80,10 @@
     =========================================*/
     #banner-part {
         padding-bottom: 200px;
+       
+    }
+    #banner-part .b-text{
+        margin-top: -100px;
     }
 
     #banner-part .b-text p {
@@ -90,16 +94,17 @@
     #banner-part .b-text h1 {
         font-size: 181px;
         text-align: center;
-        margin-top: 20px;
+        margin-top: 10px;
         margin-bottom: 30px;
     }
 
     #banner-part .images {
-        width: auto;
+        width: 100%;
     }
 
     #banner-part .b-text {
-        width: auto;
+        width: 100%;
+
     }
 
     /* =======================================
