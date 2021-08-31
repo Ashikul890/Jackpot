@@ -7,14 +7,7 @@
         position: relative;
     }
 
-    /* .menu_fix {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        background: #000;
-        padding-bottom: 18px;
-    } */
+  
 
     .navbar {
         background: #150035;
@@ -34,6 +27,7 @@
     .navbar ul {
         text-align: center;
         margin-top: 0px !important;
+        margin-left: 0;
 
     }
 
@@ -143,12 +137,20 @@
     /* =======================================
     ----------- sping part start -------------
     =========================================*/
+    #spin-part .title {
+        margin-top: 30px;
+        text-align: center;
+    }
+    #spin-part .details{
+        text-align: center;
+        margin-left: 0;
+    }
     #spin-part .images img {
         width: 100%;
     }
 
     #spin-part .details p {
-        width: auto;
+        width: 100%;
     }
 
     /* =======================================
